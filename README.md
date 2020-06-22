@@ -2,8 +2,6 @@
 
 This repo consists of medical datasets organised in different level of structure for better understanding of the datasets.
 
-
-
 ## List of Datasets
 
 

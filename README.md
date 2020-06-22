@@ -77,3 +77,5 @@ The boilerplate description is a definite set of field that one need to describe
 ## Contribute
 
 To contribute in the structure or a dataset, please create a pull request.
+
+For datasets, use please fill the relevant information in sample_description.md for the description.

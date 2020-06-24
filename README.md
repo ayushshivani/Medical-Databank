@@ -5,6 +5,7 @@ This repo consists of medical datasets organised in different level of structure
 ## List of Datasets
 
 * [Breast Cancer](https://github.com/ayushshivani/Medical-Databank/tree/master/breast_cancer)
+* [Pnemonia(Chest X-Ray)](https://github.com/ayushshivani/Medical-Databank/tree/master/Chest_XRay_Pneumonia)
 
 
 ## Contribute

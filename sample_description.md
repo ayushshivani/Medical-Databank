@@ -48,16 +48,3 @@
   * Dosage
 
 * Genetics
-
-* Survey
-  * Topic of Survey
-  * Type of survey
-  * Questions Asked
-  * Location of Survey
-  * Paper Published
-
-* Statistics
-  * Topics
-  * Motive
-  * Types of Stats
-  * Expected Task

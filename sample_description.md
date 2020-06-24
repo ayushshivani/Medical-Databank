@@ -2,49 +2,50 @@
 
 ## General Description
 
-* Name
-* Detailed Description 
-* Source
-* Tags
-* Licence
-* Paper Publised
+* **Name**
+* **Detailed Description** 
+* **Source**
+* **Tags**
+* **Licence**
+* **Paper Publised**
 
 ## Metadata
 
-* Patients Identifiers
-  * ID
-  * Age
-  * Sex
+* **Patients Identifiers**
+  * **ID**
+  * **Age**
+  * **Sex**
 
-* Patient Vitals
-  * Temperature
-  * BP
-  * Respiratory
-  * Pulse Rate
-  * Heart Beat Rate
-  * BMI
+* **Disease Profile**
+  * **Name**
+  * **Region Affecting the body**
+  * **Diagnostic Parameters**( glucose,ph etc)
 
-* Disease Profile
-  * Name
-  * Region Affecting the body
-  * Diagnostic Parameters( glucose,ph etc)
 
-* Imaging Reports
-  * Type of Exam ( Xray, MRI, CT scan)
-  * Part of the body
-  * Date of Exam
-  * Clinical HIstory
-  * Technique of Exam
-  * Finding 
-  * Impressions
+* **Patient Vitals**
+  * **Temperature**
+  * **BP**
+  * **Respiratory**
+  * **Pulse Rate**
+  * **Heart Beat Rate**
+  * **BMI**
 
-* Laboratory Test 
-  * Type of test
-  * Testing Parameters 
+* **Imaging Reports**
+  * **Type of Exam** ( Xray, MRI, CT scan)
+  * **Part of the body**
+  * **Date of Exam**
+  * **Clinical History**
+  * **Technique of Exam**
+  * **Finding**
+  * **Impressions**
 
-* Medication/Vaccination/Diet
-  * Food Consumption
-  * Medicine Name
-  * Dosage
+* **Laboratory Test** 
+  * **Type of test**
+  * **Testing Parameters** 
 
-* Genetics
+* **Medication/Vaccination/Diet**
+  * **Food Consumption**
+  * **Medicine Name**
+  * **Dosage**
+
+* **Genetics**

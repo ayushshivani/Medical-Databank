@@ -11,15 +11,15 @@
 
 ## Metadata
 
-* Patients Identifiers
+* **Patients Identifiers**
   * ID
 
-* Disease Profile
+* **Disease Profile**
   * **Name**: Brease Cancer (M = malignant, B = benign)
   * **Region Affecting the body**: Breast
 
   
-  * **Imaging Reports**
+* **Imaging Reports**
     * **Type of Exam**: Fine Needle Aspirate
     * **Part of the body**: Breast 
     * **Technique of Exam**
